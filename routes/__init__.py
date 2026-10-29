@@ -1,0 +1,3 @@
+"""
+CodePulse Flask routes package.
+"""

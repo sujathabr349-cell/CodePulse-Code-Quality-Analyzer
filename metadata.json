@@ -1,0 +1,6 @@
+{
+  "name": "CodePulse — AI-Powered Code Quality Analyzer",
+  "description": "Professional static analysis and code quality analyzer for Python. Evaluates cyclomatic complexity, maintainability, structural patterns, code health metrics, and actionable improvement recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

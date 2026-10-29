@@ -1,0 +1,17 @@
+[
+  "tests/test_analysis.py::test_broad_exception_and_unreachable_code",
+  "tests/test_analysis.py::test_clean_code_analysis",
+  "tests/test_analysis.py::test_cyclomatic_complexity_calculation",
+  "tests/test_analysis.py::test_deterministic_autofix",
+  "tests/test_analysis.py::test_empty_code_analysis",
+  "tests/test_analysis.py::test_syntax_error_detection",
+  "tests/test_analysis.py::test_unused_import_and_mutable_defaults",
+  "tests/test_exports.py::test_csv_injection_sanitization",
+  "tests/test_exports.py::test_csv_report_generation",
+  "tests/test_exports.py::test_html_report_generation",
+  "tests/test_history.py::test_settings_persistence",
+  "tests/test_history.py::test_sqlite_history_lifecycle",
+  "tests/test_scoring.py::test_perfect_score_calculation",
+  "tests/test_scoring.py::test_syntax_error_severe_cap",
+  "tests/test_scoring.py::test_weighted_deductions"
+]
